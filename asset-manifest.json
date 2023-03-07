@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/plot-builder/static/css/main.a5eb37c7.css",
-    "main.js": "/plot-builder/static/js/main.ff93fce7.js",
+    "main.js": "/plot-builder/static/js/main.9dbad3c3.js",
     "index.html": "/plot-builder/index.html",
     "main.a5eb37c7.css.map": "/plot-builder/static/css/main.a5eb37c7.css.map",
-    "main.ff93fce7.js.map": "/plot-builder/static/js/main.ff93fce7.js.map"
+    "main.9dbad3c3.js.map": "/plot-builder/static/js/main.9dbad3c3.js.map"
   },
   "entrypoints": [
     "static/css/main.a5eb37c7.css",
-    "static/js/main.ff93fce7.js"
+    "static/js/main.9dbad3c3.js"
   ]
 }
